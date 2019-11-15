@@ -1,6 +1,7 @@
 ---
-title: "Gatsby Release 2.0
+title: Gatsby Release 2.0
 date: "2019-11-15"
+description: "New Gatsby release"
 ---
 # This is a first
 ## This is a second
