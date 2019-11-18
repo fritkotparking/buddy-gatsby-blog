@@ -3,8 +3,8 @@ title: Gatsby Release 2.0
 date: "2019-11-15"
 description: "New Gatsby release"
 ---
-# This is a first
-## This is a second
+# This is a first that I've just updated
+## This is a second that I want to see changed
 * This is an amazing title
 
 **What is this?**
